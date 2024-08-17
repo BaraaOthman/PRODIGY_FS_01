@@ -84,50 +84,6 @@ const Login = () => {
 };
 
 export default Login;
-// hayete
-
-// bdi elk shaghle hon
-// fini?  shu badik hayete
-// ma tz3al mni bs
-// bas shu?
-// b3tzer mnk ya albe aa klshi
-// ma kn azdi wallah wala kn bdi etla3 aa hakyak
-// bdi fasrlk aa rawa2 baaden nshallah
-// nshallah ma ytawlu hol aana laan aanjd shi ktir
-// bi daln bi kl 8rfe w bi kl ma7al
-// b3sha2ak w krmeli khalas sakru w maba2a tsht8el halaa
-// baaden nshallah btfasrli w bkafi aa hyda l ases ya 3yuni
-
-// hayete hon ma 7a2e7ki shi ana, akid b3sha2ik hal shi ma badu aya nekash bas tasaroufk ma3i msh m7taram w kamen 3am etna2ash ma3k btredi 3alayi b nafseyi , hon 3al akid ma byen7aka bas akid mosta7il ez3al mnik ,bas me5id 3ala 5atri mnik w mn ba3d eznik trekini 5alis el login w ba3dein bnetfeham 3ala rawaa2
-// ktir ma eli 3en ehkik saraha ma kn bdi abdn ehki ma3ak b nafsiye bs elt bjareb se3dak w shuf eza btn7al ma3i shi shaghle btsir enta btkafi mn ba3di
-// w kamen bdi halaa tsht8el la elk w thst8el devnet w taaml shi la shrkeh ya albe wallah msh krmeli hl 7aki
-/// aam elk krmeli ma tkafi khalas khaline sakru
-
-
-// hayete allah yerda3 3aliki ana esa badi taki w bye5las el login w basakr
-//rou7i la3and ahlna nbesti w 5alini rakez 3aleih
-// ba3dein 3am t2elili 3moul shi la elak ma yali la elik howi la eli
-// rou7i la3and ahlna w trekini eshte8el w b5alis w bsakru ma t3tali el ham
-
-// wallah ha ez3al mnk ktir aam en2her
-// khalas krmeli sakru w sht8el krmelna w la elna hayete
-
-// ya hayete la2anu kermelik 3am 5alsu ma t3tali el ham 3edi ma3 el 3ayli w eltelik taki w b5alis
-// ma ba2a tza3li feini bzyede
-
-//😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭
-/// ma bdi za3lakkkkkk  kkkkkkkk khalas albe
-
-// hayete treki el laptop w la3and ahlna y
-// ma bdi la ahlna wala bati5 enta aham mn dne kla
-
-
-
-
-
-
-
-
 
 
 
